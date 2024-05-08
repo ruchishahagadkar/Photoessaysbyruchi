@@ -1,0 +1,161 @@
+body, html {
+    font-optical-sizing: auto;
+}
+
+.mpbody {
+    padding:0px;
+}
+
+.mynamemp {
+    background-color: #0c4c3f;
+    text-align: center; 
+    font-size: 30px;
+    font-family: "EB Garamond", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: azure;
+}
+.titlesmp {
+    text-align: center;
+    list-style-type: none;
+    font-family: "EB Garamond", serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+    background-color: #0c4c3f;
+}
+
+.titlesmp li {
+    margin: 10px;
+    display:inline-block;
+}
+
+.titlesmp li a:visited {
+   color: #1a0043;
+}
+
+.titlesmp li a {
+    color: #4d012f;
+ }
+
+img {
+    width: 100%;
+    position: inherit;
+}
+
+.slidectnr {
+    position:relative;
+    width: 100%;
+}
+
+.imgtext {
+    position:absolute;
+    left: 100px;
+    bottom: 100px;
+    background-color: white;
+    padding: 20px;
+    color: black;
+}
+
+.license {
+    background-color: #0c4c3f;
+    padding: 20px;
+    color: azure;
+    font-size: 16px;
+    font-family: "EB Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+}
+
+.titleny {
+    border: 100px;
+    border-color: #0c4c3f;
+    background-color: #0c4c3f;
+    text-align: center; 
+    font-size: 21px;
+    font-family: "Playfair Display", Times;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+    padding: 50px;
+}
+
+.titlem {
+    border: 100px;
+    border-color: #0c4c3f;
+    display: block;
+    position: relative;
+    background-color: #0c4c3f;
+    text-align: center;
+    font-size: 21px;
+    font-family: "Playfair Display", Times;
+    font-weight: 400;
+    font-style: normal;
+    color: azure;
+    padding: 10px;
+}
+
+.writeuptitle {
+    font-family: "Playfair Display", Times;
+    font-size: 24px;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.marketessay {
+    text-align: center;
+    color: #0c4c3f;
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 100px 250px 100px 250px;
+}
+
+.telegraphessay {
+    text-align: center;
+    color: #0c4c3f;
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 100px 250px 100px 250px;
+}
+
+.springessay {
+    text-align: center;
+    color: #0c4c3f;
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 100px 250px 100px 250px;
+}
+
+.nyessay {
+    text-align: center;
+    color: #0c4c3f;
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 100px 250px 100px 250px;
+}
+
+.mainpageessay {
+    text-align: center;
+    color: #0c4c3f;
+    background-color: white;
+    font-family: "Architects Daughter", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 100px 250px 100px 250px;
+}
+
